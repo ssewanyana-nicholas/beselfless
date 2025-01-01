@@ -149,36 +149,36 @@ export const siteContent = {
                 title: "Mukono Tech Center",
                 icon: "images/icons/humanitarian.svg",
                 location: "Location: Nabuuti",
-                contact: "Contact: +256 782 345 6789",
+                contact: "Contact: +256 771 357 067",
                 name: "Office Manager: Maria Nyanzi"
             },
             {
                 title: "Freedom City Tech Center",
                 icon: "images/icons/equality.svg",
                 location: "Location: Freedom City",
-                contact: "Contact: +256 782 345 6789",
+                contact: "Contact: +256 709 904 397",
                 name: "Office Manager: Steven Ssebuma"
             },
             {
                 title: "Jinja Tech Center",
                 icon: "images/icons/economic.svg",
                 location: "Location: Jinja",
-                contact: "Contact: +256 782 345 6789",
-                name: "Office Manager: Ivan Komakech"
+                contact: "Contact: +256 757 815 034",
+                name: "Office Manager: Anigo Mary"
             },
             {
                 title: "Masaka Tech Center",
                 icon: "images/icons/economic.svg",
-                location: "Location: Kampala",
-                contact: "Contact: +256 782 345 6789",
+                location: "Location: Masaka, Kijjabwemi",
+                contact: "Contact: +256 701 976 330",
                 name: "Office Manager: Douglas Wasswa Kasozi"
             },
             {
                 title: "Ntinda Tech Center",
                 icon: "images/icons/health.svg",
                 location: "Location: Ntinda",
-                contact: "Contact: +256 782 345 6789",
-                name: "Office Manager: Atong Khuruma"
+                contact: "Contact: +256 779 747 139",
+                name: "Office Manager: Atong Khur"
             },
             {
                 title: "Lira Tech Center",
