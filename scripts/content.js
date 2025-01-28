@@ -102,10 +102,10 @@ export const siteContent = {
         },
         {
             id: 4,
-            name: "Tonny ",
+            name: "Douglas W. Kasozi ",
             organization: "Career Coach",
-            imageUrl: "/images/family4.jpeg",
-            bio: ""
+            imageUrl: "/images/douglas.jpg",
+            bio: "I am passionate about problem-solving and thrive in collaborative team environments. My experience as a full-time volunteer at my church, along with my studies at Brigham Young University, have honed my leadership abilities, communication skills, and a strong foundation in business, finance, and accounting. I excel in team and organizational leadership, active listening, and fostering empathetic connections to drive success in both personal and professional settings."
         }
     ],
 
